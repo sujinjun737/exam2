@@ -20,6 +20,10 @@
         "dlfcn.h": "c",
         "functional": "c"
     },
+<<<<<<< HEAD
     "commentTranslate.targetLanguage": "zh-CN",
     "peacock.color": "#0F4C81"
+=======
+    "peacock.color": "#42b883"
+>>>>>>> 4a272edc649d26475afb722f72df004071ae1203
 }

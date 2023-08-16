@@ -21,7 +21,6 @@ LIB_IO := io_read.so
 OBJ_A := program_a
 OBJ_B := program_b
 
-
 all: $(LIB_SYS) $(LIB_IO) $(OBJ_A) $(OBJ_B)
 
 $(LIB_SYS): $(SOURCE_SYS)
