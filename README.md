@@ -33,7 +33,7 @@
 
 ### makefile
 
-编译，make命令后生成io_read.so、sys_read、program_a和program_b
+编译，make命令后生成io_read.so、sys_read.so、program_a和program_b
 
 ### big.pdf small.pdf small.txt
 
