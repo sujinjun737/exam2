@@ -1,0 +1,338 @@
+Timestamp: 2023-08-15 16:59:07
+Command: ./program_a small.txt 1 10
+Program_a total time taken by all threads: 0.000210 seconds
+Timestamp: 2023-08-15 16:59:09
+Command: ./program_b small.txt 1 10
+Progtam_b total time taken by all threads: 0.000138 seconds
+Timestamp: 2023-08-15 16:59:28
+Command: ./program_a small.txt 1 10
+Program_a total time taken by all threads: 0.000118 seconds
+Timestamp: 2023-08-15 16:59:31
+Command: ./program_b small.txt 1 10
+Progtam_b total time taken by all threads: 0.000191 seconds
+Timestamp: 2023-08-15 17:00:39
+Command: ./program_a small.txt 1 10
+Program_a total time taken by all threads: 0.000134 seconds
+Timestamp: 2023-08-15 17:00:41
+Command: ./program_b small.txt 1 10
+Progtam_b total time taken by all threads: 0.000185 seconds
+Timestamp: 2023-08-15 17:01:19
+Command: ./program_a small.txt 1 10
+Program_a total time taken by all threads: 0.000259 seconds
+Timestamp: 2023-08-15 17:01:21
+Command: ./program_b small.txt 1 10
+Progtam_b total time taken by all threads: 0.000226 seconds
+Timestamp: 2023-08-15 17:01:47
+Command: ./program_a small.txt 1 10
+Program_a total time taken by all threads: 0.000172 seconds
+Timestamp: 2023-08-15 17:01:51
+Command: ./program_b small.txt 1 10
+Progtam_b total time taken by all threads: 0.000157 seconds
+
+Timestamp: 2023-08-15 17:02:36
+Command: ./program_a small.txt 1 100
+Program_a total time taken by all threads: 0.000227 seconds
+Timestamp: 2023-08-15 17:02:41
+Command: ./program_b small.txt 1 100
+Progtam_b total time taken by all threads: 0.000134 seconds
+Timestamp: 2023-08-15 17:03:23
+Command: ./program_a small.txt 1 100
+Program_a total time taken by all threads: 0.000221 seconds
+Timestamp: 2023-08-15 17:03:30
+Command: ./program_b small.txt 1 100
+Progtam_b total time taken by all threads: 0.000139 seconds
+Timestamp: 2023-08-15 17:03:41
+Command: ./program_a small.txt 1 100
+Program_a total time taken by all threads: 0.000200 seconds
+Timestamp: 2023-08-15 17:03:44
+Command: ./program_b small.txt 1 100
+Progtam_b total time taken by all threads: 0.000167 seconds
+Timestamp: 2023-08-15 17:03:56
+Command: ./program_b small.txt 1 100
+Progtam_b total time taken by all threads: 0.000138 seconds
+Timestamp: 2023-08-15 17:08:16
+Command: ./program_a small.txt 1 100
+Program_a total time taken by all threads: 0.000259 seconds
+Timestamp: 2023-08-15 17:08:19
+Command: ./program_b small.txt 1 100
+Progtam_b total time taken by all threads: 0.000125 seconds
+Timestamp: 2023-08-15 17:08:53
+Command: ./program_a small.txt 1 100
+Program_a total time taken by all threads: 0.000216 seconds
+Timestamp: 2023-08-15 17:09:01
+Command: ./program_b small.txt 1 100
+Progtam_b total time taken by all threads: 0.000147 seconds
+
+
+Timestamp: 2023-08-15 17:14:28
+Command: ./program_a small.txt 1 10000
+Program_a total time taken by all threads: 0.017187 seconds
+Timestamp: 2023-08-15 17:14:28
+Command: ./program_b small.txt 1 10000
+Progtam_b total time taken by all threads: 0.001083 seconds
+Timestamp: 2023-08-15 17:14:28
+Command: ./program_a small.txt 1 10000
+Program_a total time taken by all threads: 0.010330 seconds
+Timestamp: 2023-08-15 17:14:28
+Command: ./program_b small.txt 1 10000
+Progtam_b total time taken by all threads: 0.001354 seconds
+Timestamp: 2023-08-15 17:14:28
+Command: ./program_a small.txt 1 10000
+Program_a total time taken by all threads: 0.034229 seconds
+Timestamp: 2023-08-15 17:14:28
+Command: ./program_b small.txt 1 10000
+Progtam_b total time taken by all threads: 0.001833 seconds
+Timestamp: 2023-08-15 17:14:28
+Command: ./program_a small.txt 1 10000
+Program_a total time taken by all threads: 0.015484 seconds
+Timestamp: 2023-08-15 17:14:28
+Command: ./program_b small.txt 1 10000
+Progtam_b total time taken by all threads: 0.001583 seconds
+Timestamp: 2023-08-15 17:14:28
+Command: ./program_a small.txt 1 10000
+Program_a total time taken by all threads: 0.016706 seconds
+Timestamp: 2023-08-15 17:14:28
+Command: ./program_b small.txt 1 10000
+Progtam_b total time taken by all threads: 0.001199 seconds
+Timestamp: 2023-08-15 17:19:03
+Command: ./program_a small.txt 3 10
+Program_a total time taken by all threads: 0.001516 seconds
+Timestamp: 2023-08-15 17:19:03
+Command: ./program_b small.txt 3 10
+Progtam_b total time taken by all threads: 0.000386 seconds
+Timestamp: 2023-08-15 17:19:03
+Command: ./program_a small.txt 3 10
+Program_a total time taken by all threads: 0.000328 seconds
+Timestamp: 2023-08-15 17:19:03
+Command: ./program_b small.txt 3 10
+Progtam_b total time taken by all threads: 0.002921 seconds
+Timestamp: 2023-08-15 17:19:03
+Command: ./program_a small.txt 3 10
+Program_a total time taken by all threads: 0.002092 seconds
+Timestamp: 2023-08-15 17:19:03
+Command: ./program_b small.txt 3 10
+Progtam_b total time taken by all threads: 0.004257 seconds
+Timestamp: 2023-08-15 17:19:03
+Command: ./program_a small.txt 3 10
+Program_a total time taken by all threads: 0.000587 seconds
+Timestamp: 2023-08-15 17:19:03
+Command: ./program_b small.txt 3 10
+Progtam_b total time taken by all threads: 0.001433 seconds
+Timestamp: 2023-08-15 17:19:03
+Command: ./program_a small.txt 3 10
+Program_a total time taken by all threads: 0.000763 seconds
+Timestamp: 2023-08-15 17:19:03
+Command: ./program_b small.txt 3 10
+Progtam_b total time taken by all threads: 0.000720 seconds
+Timestamp: 2023-08-15 17:28:46
+
+
+Command: ./program_a small.txt 3 100
+Program_a total time taken by all threads: 0.001053 seconds
+Timestamp: 2023-08-15 17:28:46
+Command: ./program_b small.txt 3 100
+Progtam_b total time taken by all threads: 0.001744 seconds
+Timestamp: 2023-08-15 17:28:46
+Command: ./program_a small.txt 3 100
+Program_a total time taken by all threads: 0.015431 seconds
+Timestamp: 2023-08-15 17:28:46
+Command: ./program_b small.txt 3 100
+Progtam_b total time taken by all threads: 0.000694 seconds
+Timestamp: 2023-08-15 17:28:46
+Command: ./program_a small.txt 3 100
+Program_a total time taken by all threads: 0.000766 seconds
+Timestamp: 2023-08-15 17:28:46
+Command: ./program_b small.txt 3 100
+Progtam_b total time taken by all threads: 0.001661 seconds
+Timestamp: 2023-08-15 17:28:46
+Command: ./program_a small.txt 3 100
+Program_a total time taken by all threads: 0.001354 seconds
+Timestamp: 2023-08-15 17:28:46
+Command: ./program_b small.txt 3 100
+Progtam_b total time taken by all threads: 0.000347 seconds
+Timestamp: 2023-08-15 17:28:46
+Command: ./program_a small.txt 3 100
+Program_a total time taken by all threads: 0.000594 seconds
+Timestamp: 2023-08-15 17:28:46
+Command: ./program_b small.txt 3 100
+Progtam_b total time taken by all threads: 0.000259 seconds
+
+
+
+
+Timestamp: 2023-08-15 17:37:06
+Command: ./program_a big.pdf 1 10
+Program_a total time taken by all threads: 0.000346 seconds
+Timestamp: 2023-08-15 17:37:06
+Command: ./program_b big.pdf 1 10
+Progtam_b total time taken by all threads: 0.000105 seconds
+Timestamp: 2023-08-15 17:37:06
+Command: ./program_a big.pdf 1 10
+Program_a total time taken by all threads: 0.000122 seconds
+Timestamp: 2023-08-15 17:37:06
+Command: ./program_b big.pdf 1 10
+Progtam_b total time taken by all threads: 0.000103 seconds
+Timestamp: 2023-08-15 17:37:06
+Command: ./program_a big.pdf 1 10
+Program_a total time taken by all threads: 0.000099 seconds
+Timestamp: 2023-08-15 17:37:06
+Command: ./program_b big.pdf 1 10
+Progtam_b total time taken by all threads: 0.000094 seconds
+Timestamp: 2023-08-15 17:37:06
+Command: ./program_a big.pdf 1 10
+Program_a total time taken by all threads: 0.000100 seconds
+Timestamp: 2023-08-15 17:37:06
+Command: ./program_b big.pdf 1 10
+Progtam_b total time taken by all threads: 0.000134 seconds
+Timestamp: 2023-08-15 17:37:06
+Command: ./program_a big.pdf 1 10
+Program_a total time taken by all threads: 0.000159 seconds
+Timestamp: 2023-08-15 17:37:06
+Command: ./program_b big.pdf 1 10
+Progtam_b total time taken by all threads: 0.000118 seconds
+
+
+Timestamp: 2023-08-15 17:39:06
+Command: ./program_a big.pdf 1 100
+Program_a total time taken by all threads: 0.000333 seconds
+Timestamp: 2023-08-15 17:39:06
+Command: ./program_b big.pdf 1 100
+Progtam_b total time taken by all threads: 0.000180 seconds
+Timestamp: 2023-08-15 17:39:06
+Command: ./program_a big.pdf 1 100
+Program_a total time taken by all threads: 0.000195 seconds
+Timestamp: 2023-08-15 17:39:06
+Command: ./program_b big.pdf 1 100
+Progtam_b total time taken by all threads: 0.000133 seconds
+Timestamp: 2023-08-15 17:39:06
+Command: ./program_a big.pdf 1 100
+Program_a total time taken by all threads: 0.000201 seconds
+Timestamp: 2023-08-15 17:39:06
+Command: ./program_b big.pdf 1 100
+Progtam_b total time taken by all threads: 0.003697 seconds
+Timestamp: 2023-08-15 17:39:06
+Command: ./program_a big.pdf 1 100
+Program_a total time taken by all threads: 0.000237 seconds
+Timestamp: 2023-08-15 17:39:06
+Command: ./program_b big.pdf 1 100
+Progtam_b total time taken by all threads: 0.000190 seconds
+Timestamp: 2023-08-15 17:39:06
+Command: ./program_a big.pdf 1 100
+Program_a total time taken by all threads: 0.000382 seconds
+Timestamp: 2023-08-15 17:39:06
+Command: ./program_b big.pdf 1 100
+Progtam_b total time taken by all threads: 0.000177 seconds
+
+Timestamp: 2023-08-15 17:45:06
+Command: ./program_a big.pdf 1 10000
+Program_a total time taken by all threads: 0.009161 seconds
+Timestamp: 2023-08-15 17:45:06
+Command: ./program_b big.pdf 1 10000
+Progtam_b total time taken by all threads: 0.006284 seconds
+Timestamp: 2023-08-15 17:45:06
+Command: ./program_a big.pdf 1 10000
+Program_a total time taken by all threads: 0.009978 seconds
+Timestamp: 2023-08-15 17:45:06
+Command: ./program_b big.pdf 1 10000
+Progtam_b total time taken by all threads: 0.005859 seconds
+Timestamp: 2023-08-15 17:45:06
+Command: ./program_a big.pdf 1 10000
+Program_a total time taken by all threads: 0.010882 seconds
+Timestamp: 2023-08-15 17:45:06
+Command: ./program_b big.pdf 1 10000
+Progtam_b total time taken by all threads: 0.005890 seconds
+Timestamp: 2023-08-15 17:45:06
+Command: ./program_a big.pdf 1 10000
+Program_a total time taken by all threads: 0.013441 seconds
+Timestamp: 2023-08-15 17:45:06
+Command: ./program_b big.pdf 1 10000
+Progtam_b total time taken by all threads: 0.007657 seconds
+Timestamp: 2023-08-15 17:45:06
+Command: ./program_a big.pdf 1 10000
+Program_a total time taken by all threads: 0.015938 seconds
+Timestamp: 2023-08-15 17:45:07
+Command: ./program_b big.pdf 1 10000
+Progtam_b total time taken by all threads: 0.023134 seconds
+
+Timestamp: 2023-08-15 17:48:22
+Command: ./program_a big.pdf 5 10
+Program_a total time taken by all threads: 0.004738 seconds
+Timestamp: 2023-08-15 17:48:22
+Command: ./program_b big.pdf 5 10
+Progtam_b total time taken by all threads: 0.001182 seconds
+Timestamp: 2023-08-15 17:48:22
+Command: ./program_a big.pdf 5 10
+Program_a total time taken by all threads: 0.004151 seconds
+Timestamp: 2023-08-15 17:48:22
+Command: ./program_b big.pdf 5 10
+Progtam_b total time taken by all threads: 0.002288 seconds
+Timestamp: 2023-08-15 17:48:22
+Command: ./program_a big.pdf 5 10
+Program_a total time taken by all threads: 0.002643 seconds
+Timestamp: 2023-08-15 17:48:22
+Command: ./program_b big.pdf 5 10
+Progtam_b total time taken by all threads: 0.002931 seconds
+Timestamp: 2023-08-15 17:48:22
+Command: ./program_a big.pdf 5 10
+Program_a total time taken by all threads: 0.002728 seconds
+Timestamp: 2023-08-15 17:48:22
+Command: ./program_b big.pdf 5 10
+Progtam_b total time taken by all threads: 0.001696 seconds
+Timestamp: 2023-08-15 17:48:22
+Command: ./program_a big.pdf 5 10
+Program_a total time taken by all threads: 0.002369 seconds
+Timestamp: 2023-08-15 17:48:22
+Command: ./program_b big.pdf 5 10
+Progtam_b total time taken by all threads: 0.005345 seconds
+
+Timestamp: 2023-08-15 17:54:11
+Command: ./program_a big.pdf 10 1000000
+Program_a total time taken by all threads: 54.475695 seconds
+Timestamp: 2023-08-15 17:54:11
+Command: ./program_b big.pdf 10 1000000
+Progtam_b total time taken by all threads: 7.595822 seconds
+Timestamp: 2023-08-15 17:54:17
+Command: ./program_a big.pdf 10 1000000
+Program_a total time taken by all threads: 55.911606 seconds
+Timestamp: 2023-08-15 17:54:18
+Command: ./program_b big.pdf 10 1000000
+Progtam_b total time taken by all threads: 7.450786 seconds
+Timestamp: 2023-08-15 17:54:25
+Command: ./program_a big.pdf 10 1000000
+Program_a total time taken by all threads: 65.815698 seconds
+Timestamp: 2023-08-15 17:54:26
+Command: ./program_b big.pdf 10 1000000
+Progtam_b total time taken by all threads: 9.963843 seconds
+Timestamp: 2023-08-15 17:54:32
+Command: ./program_a big.pdf 10 1000000
+Program_a total time taken by all threads: 58.568106 seconds
+Timestamp: 2023-08-15 17:54:32
+Command: ./program_b big.pdf 10 1000000
+Progtam_b total time taken by all threads: 7.002041 seconds
+Timestamp: 2023-08-15 17:54:38
+Command: ./program_a big.pdf 10 1000000
+Program_a total time taken by all threads: 58.429558 seconds
+Timestamp: 2023-08-15 17:54:39
+Command: ./program_b big.pdf 10 1000000
+Progtam_b total time taken by all threads: 7.749201 seconds
+
+
+Timestamp: 2023-08-16 16:31:41
+Command: ./program_a big.pdf 3 100
+Program_a total time taken by all threads: 0.025386 seconds
+Timestamp: 2023-08-16 16:31:41
+Command: ./program_b big.pdf 3 100
+Progtam_b total time taken by all threads: 0.001580 seconds
+Timestamp: 2023-08-16 16:32:42
+Command: ./program_a big.pdf 3 100
+Program_a total time taken by all threads: 0.001457 seconds
+Timestamp: 2023-08-16 16:32:42
+Command: ./program_b big.pdf 3 100
+Progtam_b total time taken by all threads: 0.002270 seconds
+
+Timestamp: 2023-08-16 16:34:16
+Command: ./program_a big.pdf 3 10000000
+Program_a total time taken by all threads: 49.420485 seconds
+Timestamp: 2023-08-16 16:34:17
+Command: ./program_b big.pdf 3 10000000
+Progtam_b total time taken by all threads: 4.000826 seconds
